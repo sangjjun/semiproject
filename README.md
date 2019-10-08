@@ -1,7 +1,7 @@
 # KH Academy Semi Project : KH Talk
 ## About Project
 
-<img src="./images/main.jpg" style="width: 500px; height: 350px" />
+<img src="./webcontent/images/main.jpg" style="width: 500px; height: 350px" />
 <br />
 
 - KH정보교육원 수강생들의 원활한 커뮤니케이션과 학습의욕 고취를 위한 온라인 스터디 플랫폼
@@ -25,20 +25,20 @@
 
 ## 구현 기능
 
-<img src="./images/main2.jpg" style="width: 500px; height: 350px" />
+<img src="./webcontent/images/main2.jpg" style="width: 500px; height: 350px" />
 <br />
 
 - 계층형 게시판 구현 : 답글&검색 기능, 페이징
 
 <br />
-<img src="/images/notice1.jpg" style="width: 500px; height: 350px" />
+<img src="/webcontent/images/notice1.jpg" style="width: 500px; height: 350px" />
 <br />
 
 - Session객체와 JSTL 이용하여 회원만 글쓰기 가능하도록 구현
 - 파일첨부 기능 (Multipart/form-data)
 
 <br />
-<img src="./images/notice2.jpg" style="width: 500px; height: 350px" />
+<img src="./webcontent/images/notice2.jpg" style="width: 500px; height: 350px" />
 <br />
 
 - 제목, 내용, 글쓴이 카테고리 별 게시물 검색 기능 구현
@@ -46,7 +46,7 @@
 
 <br />
 <br />
-<img src="./images/notice3.jpg" style="width: 500px; height: 350px" />
+<img src="./webcontent/images/notice3.jpg" style="width: 500px; height: 350px" />
 <br />
 ## Contribute
 - KH Academy team KH Talk
