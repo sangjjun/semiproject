@@ -1,7 +1,7 @@
 # KH Academy Semi Project : KH Talk
 ## About Project
 
-<img src="./webcontent/images/main.jpg" style="width: 500px; height: 350px" />
+<img src="/webcontent/image/main.jpg" style="width: 500px; height: 350px" />
 <br />
 
 - KH정보교육원 수강생들의 원활한 커뮤니케이션과 학습의욕 고취를 위한 온라인 스터디 플랫폼
@@ -25,7 +25,7 @@
 
 ## 구현 기능
 
-<img src="./webcontent/images/main2.jpg" style="width: 500px; height: 350px" />
+<img src="./webcontent/image/main2.jpg" style="width: 500px; height: 350px" />
 <br />
 
 - 계층형 게시판 구현 : 답글&검색 기능, 페이징
